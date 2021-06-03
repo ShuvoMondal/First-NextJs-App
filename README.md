@@ -1,4 +1,4 @@
-##Check out the live web site on https://first-next-js-app-ten.vercel.app/
+## Check out the live web site on https://first-next-js-app-ten.vercel.app/
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
