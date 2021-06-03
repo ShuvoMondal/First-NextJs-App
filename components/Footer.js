@@ -1,8 +1,8 @@
 const Footer = () => {
     return (
-        <div>
+        <footer>
             My First Next.js App
-        </div>
+        </footer>
     )
 }
 
